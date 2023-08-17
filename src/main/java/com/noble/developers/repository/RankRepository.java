@@ -1,6 +1,5 @@
 package com.noble.developers.repository;
 
-import com.hacker.imdbapp.models.*;
 import com.noble.developers.models.Film;
 import com.noble.developers.models.Rank;
 import com.noble.developers.models.User;

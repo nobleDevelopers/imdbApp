@@ -1,7 +1,6 @@
 package com.noble.developers.services.impl;
 
 import com.noble.developers.dto.FilmDto;
-import com.hacker.imdbapp.exceptions.*;
 import com.noble.developers.models.Film;
 import com.noble.developers.models.Genere;
 import com.noble.developers.models.Rank;
